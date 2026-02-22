@@ -8,12 +8,7 @@ Trouver et telecharger tout les **mods** pour **asseto corsa**.
 ---
 
 ## 🔧 Personnalisation
-💡 **Ce projet est fait pour être customisé !** Ajoute tes propres models, change le style, fais-le à ton goût. 
-
----
-
-## 📸 Preview
-![Street Animation](https://i.pinimg.com/originals/7c/d4/15/7cd415c2a1d5649e16a8eef19cf13664.gif)  
+💡 **Ce projet est fait pour être customisé !** Ajoute tes propres mods, ajoute des jeux, maps ect... 
 
 ---
 
@@ -25,6 +20,7 @@ Trouver et telecharger tout les **mods** pour **asseto corsa**.
 
 
 🔥 _Keep it low, keep it smooth!_ 🔥
+
 
 
 
